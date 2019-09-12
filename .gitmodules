@@ -1,3 +1,0 @@
-[submodule "sub/rack"]
-	path = sub/rack
-	url = https://github.com/ts-dang/rack.git
